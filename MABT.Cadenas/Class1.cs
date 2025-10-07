@@ -1,4 +1,4 @@
-﻿namespace JAPL.Temperatura
+﻿namespace MABT.Cadenas
 {
     public class Class1
     {
